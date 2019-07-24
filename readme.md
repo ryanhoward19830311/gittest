@@ -3,3 +3,6 @@ add one more line!
 branch test
 
 bug fix test
+
+
+test conflict
